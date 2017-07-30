@@ -5,7 +5,7 @@
 		"/C/Users/Aulas Informaticas/trabajosSena"
 	],
 	"last_version": 3126,
-	"last_window_id": 4,
+	"last_window_id": 5,
 	"log_indexing": false,
 	"settings":
 	{
@@ -17,161 +17,21 @@
 				"selected_items":
 				[
 					[
-						"dire",
-						"direccion〔variable〕"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 150.0,
-				"last_filter": "install",
-				"selected_items":
-				[
-					[
-						"install",
-						"Package Control: Install Package"
+						"colombia",
+						"colombiaClick"
 					],
 					[
-						"inst",
-						"Package Control: Install Package"
+						"inner",
+						"innerHTML"
 					],
 					[
-						"instal",
-						"Package Control: Install Package"
+						"for",
+						"for\tfor (…) {…} (Improved Native For-Loop)"
 					],
 					[
-						"isntal",
-						"Package Control: Install Package"
+						"fun",
+						"function〔keyword〕"
 					],
-					[
-						"INSTALL",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 528.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/C/Users/Aulas Informaticas/trabajosSena/ejercicio5/index.html",
-				"/C/Users/Aulas Informaticas/trabajosSena/ejercicio5/resultado.html"
-			],
-			"find":
-			{
-				"height": 34.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 0.0
-			},
-			"input":
-			{
-				"height": 54.0
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 0.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 150.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 640.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"on",
 						"onchange\tAttr"
@@ -221,8 +81,245 @@
 						"alert〔function〕"
 					],
 					[
+						"dire",
+						"direccion〔variable〕"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 320.0,
+				"last_filter": "enable",
+				"selected_items":
+				[
+					[
+						"enable",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"isntal",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 496.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/js/combos.js",
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/js/paises.js",
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/paises.html",
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/js/sesion.js",
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/css/estilosPaises.css",
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/ejercicio2/index.html",
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/index.html",
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/css/estilosHome.css",
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/sublime/Data/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/sublime/Data/Packages/LiveReload/LiveReload.sublime-settings",
+				"/C/Users/Aulas Informaticas/trabajosSena/ejercicio5/index.html",
+				"/C/Users/Aulas Informaticas/trabajosSena/ejercicio5/resultado.html"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"petorca",
+					"Rafael",
+					"js",
+					";\n",
+					"100",
+					"dashed",
+					"bold"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 55.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 193.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"colombia",
+						"colombiaClick"
+					],
+					[
+						"inner",
+						"innerHTML"
+					],
+					[
+						"for",
+						"for\tfor (…) {…} (Improved Native For-Loop)"
+					],
+					[
 						"fun",
 						"function〔keyword〕"
+					],
+					[
+						"on",
+						"onchange\tAttr"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"hea",
+						"header\t<header>"
+					],
+					[
+						"color",
+						"background-color"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"rg",
+						"rgba()"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"alert",
+						"alert〔function〕"
 					],
 					[
 						"dire",
@@ -232,48 +329,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/js/sesion.js",
-					"settings":
-					{
-						"buffer_size": 580,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<script src=\"/javascripts/application.js\" type=\"text/javascript\" charset=\"utf-8\" async defer></script>\n\n<head>\n\t<meta charset=\"UTF-8\">\n\t<title>Paises del mundo</title>\n\t\n\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/estilosPaises.css\"/>\n</head>\n<body>\n\n\t<header id=\"cabecera\">\n\t\t\t<ul class=\"nav\">\n\t\t\t\t<li>\n\t\t\t\t<a>Paises</a>\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li><a>Colombia</a></li>\n\t\t\t\t\t\t<li><a>Francia</a></li>\n\t\t\t\t\t\t<li><a>Ecuador</a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t</header>\n\n\n<div id=\"combos\">\n\n\t<select id=\"ciudad\" onchange=\"\">\n\n\t   <option value=\"1\">Bogota</option> \n\t   <option value=\"2\">Armenia</option> \n\t   <option value=\"3\">bolivia</option>\n\t   \n\t</select>\n\n\t<select id=\"departamento\">\n\n\t   <option value=\"1\">Seleccione ciudad</option> \n\n\t   \n\t</select>\n\n</div>\t\n</body>\n</html>",
-					"file": "/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/paises.html",
-					"file_size": 751,
-					"file_write_time": 131458345347322884,
-					"settings":
-					{
-						"buffer_size": 815,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/js/combos.js",
-					"settings":
-					{
-						"buffer_size": 0,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "*{\n\tpadding: 0px;\n\tmargin: 0px;\n\n}\n\n#cabecera{\n\t\n\tmargin: auto;\n\twidth: 500px;\n\tfont-family: arial, Helvetica, sans-serif;\n}\n\nli, ul{\n\n\n\tlist-style: none;\n\t\n\n\n}\n\n.nav li a{\n\n\n\tbackground-color: black;\n\tcolor:white;\n\ttext-decoration: none;\n\tpadding: 10px 15px;\n\tdisplay: block;\n}\n\n.nav li a:hover{\n\n\n\tbackground-color: #2F2121;\n\tcursor:pointer;\n\n\n\n}\n\n.nav li ul{\n\n\tdisplay: none;\n\tmin-width: 140px;\n\n}\n\n.nav li:hover > ul\n{\n\n\tdisplay:block;\n\t\n\n}",
-					"file": "/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/css/estilosPaises.css",
-					"file_size": 557,
-					"file_write_time": 131458338321283132,
-					"settings":
-					{
-						"buffer_size": 444,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -330,16 +385,15 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena",
-				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017",
-				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/css",
-				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/ejercicio1",
-				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/ejercicio2"
-			],
 			"file_history":
 			[
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/sublime/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/sublime/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/js/combos.js",
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/js/paises.js",
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/paises.html",
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/js/sesion.js",
+				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/css/estilosPaises.css",
 				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/ejercicio2/index.html",
 				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/index.html",
 				"/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/css/estilosHome.css",
@@ -350,7 +404,7 @@
 			],
 			"find":
 			{
-				"height": 32.0
+				"height": 33.0
 			},
 			"find_in_files":
 			{
@@ -364,6 +418,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"petorca",
+					"Rafael",
+					"js",
 					";\n",
 					"100",
 					"dashed",
@@ -382,485 +439,21 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "C:\\Users\\Administrador.DESKTOP-L0GLE2A\\Desktop\\trabajosSena"
-				}
-			],
 			"groups":
 			[
 				{
-					"selected": 2,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/js/sesion.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 580,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										413,
-										413
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												412,
-												413
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/double_quote.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												400,
-												401
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/ayu-mirage.tmTheme",
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/paises.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 815,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										27,
-										27
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												30,
-												31
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/double_quote.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												27,
-												28
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"syntax": "Packages/HTML/HTML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/js/combos.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/C/Users/Administrador.DESKTOP-L0GLE2A/Desktop/trabajosSena/29-07-2017/css/estilosPaises.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 444,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										156,
-										156
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												159,
-												160
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												132,
-												133
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"syntax": "Packages/CSS/CSS.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 138.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 33.0
 			},
 			"input":
 			{
-				"height": 54.0
+				"height": 55.0
 			},
 			"layout":
 			{
@@ -890,11 +483,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,1,-32000,-32000,-1,-1,708,385,169,1041",
+			"position": "0,2,3,-1,-1,-1,-1,617,78,78,734",
 			"project": "",
 			"replace":
 			{
-				"height": 60.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -931,13 +524,13 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 193.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 4,
+			"window_id": 5,
 			"workspace_name": ""
 		}
 	],
